@@ -1,6 +1,6 @@
 <h3>Clone of Healthmug</h3>
 
-- 📫 Deploy Link **https://salavisushant.github.io/Healthmug-final.github.io/**
+- 📫 Deploy Link **https://vermillion-cocada-8199ef.netlify.app/**
 
 <h3>Project description</h3>
 
